@@ -111,3 +111,5 @@ int main(int argc, char* argv[]) {
 https://github.com/ngiokweng/ng1ok-linker
 
 https://bbs.kanxue.com/thread-282316.htm
+
+https://cs.android.com/android/platform/superproject/main/+/main:bionic/linker/
