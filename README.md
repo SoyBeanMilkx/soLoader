@@ -12,6 +12,13 @@
 
 ✅ 支持符号查找和解析
 
+## 演示
+
+
+
+https://github.com/user-attachments/assets/11c13db5-334e-4053-9ca3-a3d8baaccaae
+
+
 
 ## 使用示例
 ```c
@@ -102,4 +109,5 @@ int main(int argc, char* argv[]) {
 
 ## 参考
 https://github.com/ngiokweng/ng1ok-linker
+
 https://bbs.kanxue.com/thread-282316.htm
