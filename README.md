@@ -28,7 +28,6 @@ int main(int argc, char* argv[]) {
 
     LOGI("Starting custom linker for: %s", argv[1]);
 
-    // 检查文件是否存在
     if (access(argv[1], F_OK)!= 0) {
         LOGE("File does not exist: %s", argv[1]);
         return 1;
@@ -99,3 +98,8 @@ int main(int argc, char* argv[]) {
 3. 复杂的 SO 文件可能需要额外的重定位支持
 
 4. 生产环境使用需充分测试
+
+
+## 参考
+https://github.com/ngiokweng/ng1ok-linker
+https://bbs.kanxue.com/thread-282316.htm
